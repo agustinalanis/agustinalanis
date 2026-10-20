@@ -51,7 +51,7 @@ For **3+ years**, working at a company and as a freelancer, I've shipped product
   <tr>
     <td valign="top">Production e-commerce for a concept store. Mercado Pago payments with HMAC-verified webhooks, JWT auth and an admin panel with bulk import.</td>
     <td valign="top">Custom sales and stock management system in daily use by a plant nursery. Transactional stock updates, KPI dashboard and Excel/PDF reports.</td>
-    <td valign="top">Inventory management with role-based access and an AI module that detects sales patterns and suggests restocking.</td>
+    <td valign="top">Inventory management with RBAC, low-stock email alerts, 146 automated tests and an AI service that suggests restocking.</td>
   </tr>
   <!-- Row 3: stack -->
   <tr>
