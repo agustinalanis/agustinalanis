@@ -17,7 +17,7 @@
 I build web apps **end-to-end** — from the database schema to the last pixel of the UI.
 For **3+ years**, working at a company and as a freelancer, I've shipped production e-commerce with real payments, secured APIs, and integrated **AI (LLMs) into live products**.
 
-- 💼 **Full Stack Engineer @ Touken** (Chile, remote · 2025 - 2026) — built features for an AI platform that analyzes audio, video and text responses with OpenAI
+- 💼 **Full Stack Engineer @ Touken** (Chile, remote · 2025) — built features for an AI platform that analyzes audio, video and text responses with OpenAI
 - 🛒 **Freelance developer** (2023 – present) — designing, building and deploying web apps for clients, from requirements to post-launch support
 - 🎓 **Systems Engineering @ UTN FRSR** — 37 of 42 subjects passed, GPA 8.06
 - 📍 Mendoza, Argentina
@@ -32,30 +32,31 @@ For **3+ years**, working at a company and as a freelancer, I've shipped product
     <td width="33%" valign="top">
       <h3>🛍️ AlQubo</h3>
       <a href="https://alqubo.com"><img src="https://img.shields.io/badge/Live_demo-2EA043?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"/></a>
-      <!-- <a href="https://github.com/agustinalanis/alqubo-case-study"><img src="https://img.shields.io/badge/Case_study-30363D?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a> -->
+      <a href="https://github.com/agustinalanis/alqubo-case-study"><img src="https://img.shields.io/badge/Case_study-30363D?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a>
+      <a href="https://agusdev-portfolio.vercel.app/proyectos/al-qubo-concept-store"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌱 ViveroHub</h3>
+      <a href="https://github.com/agustinalanis/viverohub-case-study"><img src="https://img.shields.io/badge/Case_study-30363D?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a>
     </td>
     <td width="33%" valign="top">
       <h3>📦 InventorySystem</h3>
       <a href="https://inventory-system-five-steel.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2EA043?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"/></a>
-      <!-- <a href="https://github.com/agustinalanis/inventory-system"><img src="https://img.shields.io/badge/Code-30363D?style=flat-square&logo=github&logoColor=white" alt="Code"/></a> -->
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎮 Digital Products Store</h3>
-      <a href="https://king-cuentas.vercel.app"><img src="https://img.shields.io/badge/Live_demo-2EA043?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"/></a>
-      <!-- <a href="https://github.com/agustinalanis/digital-store-case-study"><img src="https://img.shields.io/badge/Case_study-30363D?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a> -->
+      <a href="https://github.com/agustinalanis/inventorysystem-case-study"><img src="https://img.shields.io/badge/Case_study-30363D?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a>
+      <a href="https://agusdev-portfolio.vercel.app/proyectos/intelligent-inventory-system"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     </td>
   </tr>
   <!-- Row 2: description -->
   <tr>
     <td valign="top">Production e-commerce for a concept store. Mercado Pago payments with HMAC-verified webhooks, JWT auth and an admin panel with bulk import.</td>
+    <td valign="top">Custom sales and stock management system in daily use by a plant nursery. Transactional stock updates, KPI dashboard and Excel/PDF reports.</td>
     <td valign="top">Inventory management with role-based access and an AI module that detects sales patterns and suggests restocking.</td>
-    <td valign="top">Client e-commerce with real-time cart and inventory, media handling with Cloudinary and a CI/CD pipeline.</td>
   </tr>
   <!-- Row 3: stack -->
   <tr>
     <td valign="top"><code>Next.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Docker</code></td>
+    <td valign="top"><code>React</code> <code>TanStack Query</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></td>
     <td valign="top"><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Prisma</code> <code>Swagger</code></td>
-    <td valign="top"><code>React</code> <code>Redux</code> <code>Express</code> <code>Prisma</code> <code>Zod</code></td>
   </tr>
 </table>
 
@@ -80,4 +81,4 @@ For **3+ years**, working at a company and as a freelancer, I've shipped product
 
 ---
 
-<p align="center"><b>🔎 Open to Full Stack</b> — <a href="mailto:agusalanis.dev@gmail.com">agusalanis.dev@gmail.com</a></p>
+<p align="center"><b>🔎 Open to Full Stack / Frontend roles (remote)</b> — <a href="mailto:agusalanis.dev@gmail.com">agusalanis.dev@gmail.com</a></p>
