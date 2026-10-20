@@ -38,6 +38,7 @@ For **3+ years**, working at a company and as a freelancer, I've shipped product
     <td width="33%" valign="top">
       <h3>🌱 ViveroHub</h3>
       <a href="https://github.com/agustinalanis/viverohub-case-study"><img src="https://img.shields.io/badge/Case_study-30363D?style=flat-square&logo=github&logoColor=white" alt="Case study"/></a>
+      <a href="https://agusdev-portfolio.vercel.app/proyectos/viverohub"><img src="https://img.shields.io/badge/Portfolio-8957E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
     </td>
     <td width="33%" valign="top">
       <h3>📦 InventorySystem</h3>
@@ -59,6 +60,10 @@ For **3+ years**, working at a company and as a freelancer, I've shipped product
     <td valign="top"><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Prisma</code> <code>Swagger</code></td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/agustinalanis?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories_→-30363D?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories"/></a>
+</p>
 
 ---
 
