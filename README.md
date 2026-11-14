@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agustín Alanís</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;Systems+Engineering+Student+%40+UTN+%F0%9F%8E%93" alt="Full Stack Developer · Systems Engineering Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB" alt="Full Stack Developer" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=45&lines=Systems+Engineering+Student+%40+UTN+%F0%9F%8E%93" alt="Systems Engineering Student @ UTN" />
 </p>
 
 <p align="center">
